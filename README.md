@@ -8,10 +8,10 @@
 
 **A lightweight, intelligent proxy solution using Cloudflare WARP technology**
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/yourusername/liberty)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/yourusername/liberty)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/1buGaith/liberty-proxy)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/1buGaith/liberty-proxy)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Release](https://img.shields.io/badge/Release-v1.0-orange?style=for-the-badge)](https://github.com/yourusername/liberty/releases)
+[![Release](https://img.shields.io/badge/Release-v1.0-orange?style=for-the-badge)](https://github.com/1buGaith/liberty-proxy/releases)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [FAQ](#-faq) • [Support](#-support)
 
@@ -372,7 +372,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for unrestricted internet access**
 
-[![Star this repo](https://img.shields.io/github/stars/1buGaith/liberty?style=social)](https://github.com/yourusername/liberty)
+[![Star this repo](https://img.shields.io/github/stars/1buGaith/liberty?style=social)](https://github.com/1buGaith/liberty-proxy)
 [![Follow on GitHub](https://img.shields.io/github/followers/1buGaith?style=social)](https://github.com/yourusername)
 
 </div>
