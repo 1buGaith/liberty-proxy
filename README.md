@@ -77,7 +77,7 @@ Liberty is a sophisticated Windows proxy client that leverages Cloudflare WARP's
 
 ### Method 1: Quick Install (Recommended)
 
-1. **Download** the latest `unblock-jo.exe` from [Releases](https://github.com/1buGaith/liberty/releases)
+1. **Download** the latest `unblock-jo.exe` from [Releases](https://github.com/1buGaith/liberty-proxy/releases)
 2. **Run** the executable - it will automatically:
    - Copy itself to `%LOCALAPPDATA%\Liberty\`
    - Install the Proxy Guard service
