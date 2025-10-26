@@ -77,7 +77,7 @@ Liberty is a sophisticated Windows proxy client that leverages Cloudflare WARP's
 
 ### Method 1: Quick Install (Recommended)
 
-1. **Download** the latest `unblock-jo.exe` from [Releases](https://github.com/yourusername/liberty/releases)
+1. **Download** the latest `unblock-jo.exe` from [Releases](https://github.com/1buGaith/liberty/releases)
 2. **Run** the executable - it will automatically:
    - Copy itself to `%LOCALAPPDATA%\Liberty\`
    - Install the Proxy Guard service
@@ -89,13 +89,7 @@ Liberty is a sophisticated Windows proxy client that leverages Cloudflare WARP's
 
 ```bash
 # Download the binary
-curl -LO https://github.com/yourusername/liberty/releases/latest/download/unblock-jo.exe
-
-# Run first-time setup (requires admin)
-unblock-jo.exe --setup
-
-# Launch the application
-unblock-jo.exe
+curl -LO https://github.com/1buGaith/liberty/releases/latest/download/unblock-jo.exe
 ```
 
 ### First Run
@@ -216,7 +210,7 @@ Liberty uses a **double WARP** setup for enhanced security:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/liberty.git
+git clone https://github.com/1buGaith/liberty.git
 cd liberty
 
 # Open in Visual Studio
@@ -368,8 +362,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/liberty/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/liberty/discussions)
+- **Issues**: [GitHub Issues](https://github.com/1buGaith/liberty/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/1buGaith/liberty/discussions)
 - **Instagram**: [@2lryy](https://www.instagram.com/2lryy/)
 
 ---
@@ -378,7 +372,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for unrestricted internet access**
 
-[![Star this repo](https://img.shields.io/github/stars/yourusername/liberty?style=social)](https://github.com/yourusername/liberty)
-[![Follow on GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![Star this repo](https://img.shields.io/github/stars/1buGaith/liberty?style=social)](https://github.com/yourusername/liberty)
+[![Follow on GitHub](https://img.shields.io/github/followers/1buGaith?style=social)](https://github.com/yourusername)
 
 </div>
